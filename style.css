@@ -10,7 +10,7 @@ form {
   padding-left: 2%;
   padding-right: 2%;
 }
-#fontSize {
+.fontSize {
   font-size: medium;
 }
 .box {
