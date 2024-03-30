@@ -1,6 +1,29 @@
-.col{border: 1px solid red;
-
+.div {
+  border: 1px solid red;
 }
-.navbar{
-    
+.navbar {
+}
+.card {
+  margin-top: 6%;
+}
+form {
+  padding-left: 2%;
+  padding-right: 2%;
+}
+#fontSize {
+  font-size: medium;
+}
+.box {
+  width: 71%;
+}
+button {
+}
+p {
+  font-size: small;
+}
+#weAccept {
+  margin-bottom: 6%;
+}
+#navBar {
+  font-size: x-large;
 }
